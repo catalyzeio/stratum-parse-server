@@ -6,6 +6,6 @@
     "node": ">=4.5"
   },
   "dependencies": {
-    "parse-server": "^2.2.22"
+    "parse-server": "^2.3.6"
   }
 }

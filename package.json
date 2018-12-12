@@ -1,11 +1,11 @@
 {
   "name": "stratum-parse-server",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "engines": {
     "node": ">=4.5"
   },
   "dependencies": {
-    "parse-server": "^2.3.6"
+    "parse-server": "^3.1.1"
   }
 }
